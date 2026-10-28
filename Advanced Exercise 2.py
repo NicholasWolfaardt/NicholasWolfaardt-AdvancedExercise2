@@ -32,7 +32,7 @@ b *= 2
 c %= 4
 
 # TODO: Calculate the square root of (a^2 + b^2 + c^2)
-result = a^2 + b^2 + c^2
+result = a**2 + b**2 + c**2
 result = math.sqrt(result)
 
 # TODO: Print the final result rounded to 2 decimal places
